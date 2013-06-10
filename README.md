@@ -8,7 +8,7 @@ This project is still in the early stages.
 
 * Configurable API keys (configure in UI?)
 * Switch from squares to something more appealing (circles?)
-** Maybe use transparency so objects can overlay
+ * Maybe use transparency so objects can overlay
 * Color by transaction status
 * Package as a standalone app
 
